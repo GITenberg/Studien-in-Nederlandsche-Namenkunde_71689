@@ -1,0 +1,29 @@
+_repo: Studien-in-Nederlandsche-Namenkunde_71689
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Winkler, Johan
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '38069'
+    url: http://www.gutenberg.org/2009/agents/38069
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71689'
+language: nl
+pgterms:marc904: https://archive.org/details/studininnederla00winkgoog
+pgterms:marc905: 20201229021607winkler
+pgterms:marc906: '1900'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: '  $aHaarlem :$bH. D. Tjeenk Willink & Zoon, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Studiën in Nederlandsche Namenkunde
+url: http://www.gutenberg.org/ebooks/71689
