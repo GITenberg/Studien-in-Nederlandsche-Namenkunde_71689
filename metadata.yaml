@@ -1,5 +1,8 @@
 _repo: Studien-in-Nederlandsche-Namenkunde_71689
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71689-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Winkler, Johan
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '38069'
     url: http://www.gutenberg.org/2009/agents/38069
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71689#Studien-in-Nederlandsche-Namenkunde
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71689'
